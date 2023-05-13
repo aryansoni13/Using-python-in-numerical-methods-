@@ -1,4 +1,4 @@
-# Using-python-in-numerical-methods-
+# Using-python-in-numerical-methods
 This repository contains a Python programs that utilize the matplot and numpy library. Numpy provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. Matplotlib is a data visualization library that provides a wide range of tools for creating plots, charts, and graphs in Python. 
 
 Introduction: The Python Repository aims to provide a Python scripts that demonstrate the capabilities of the Numpy and matplot library. Whether you are a beginner learning programming or an experienced developer interested in exploring the usage of python in numerical method.
